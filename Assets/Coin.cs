@@ -13,6 +13,7 @@ public class Coin : MonoBehaviour
         if(col.tag == "Player")
         {
             player.coin += value;
+            Destroy(gameObject);
         }
     }
 }
