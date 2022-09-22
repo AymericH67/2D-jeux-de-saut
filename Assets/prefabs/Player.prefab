@@ -223,4 +223,8 @@ MonoBehaviour:
   health: 0
   myMaxHealth: 3
   coin: 0
+  nombreEtoileInGame: 0
+  nombreEtoile: 0
+  lobby: Lobby
   coinText: {fileID: 0}
+  deathPanel: {fileID: 0}
